@@ -78,6 +78,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${fq2Display.variable} ${fq2Body.variable}`}>
       <head>
+        <meta name="yandex-verification" content="839e887460070a77" />
         {/* Дополнительные пользовательские теги */}
         <meta name="keywords" content="fugu casino, fugu casino официальный сайт, fugu casino зеркало, fugu casino играть, фугу казино, фугу казино официальный, фугу казино зеркало рабочее, фугу казино играть, фугу казино онлайн" />
         <meta name="author" content="Fugu Casino" />
